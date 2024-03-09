@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CreditPage = () => {
+const Credits = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const CreditPage = () => {
   )
 }
 
-export default CreditPage
+export default Credits
